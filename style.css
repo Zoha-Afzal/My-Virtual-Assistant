@@ -32,7 +32,7 @@ body {
     padding: 40px;
     position: absolute;
     left: 20%;
-    box-shadow: 0 6px 10px rgba(128, 0, 128, 0.5);
+    box-shadow: 0 6px 10px rgba(211, 112, 211, 0.5);
     background-color: rgba(0, 0, 0, 0.6);
     border-radius: 10px;
     width: 40%;
@@ -102,7 +102,7 @@ p {
 
 .listening {
     animation: pulse 1s infinite;
-    background-color: #FF6347;
+    
 }
 
 @keyframes pulse {
